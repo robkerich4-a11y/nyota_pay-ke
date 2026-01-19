@@ -12,7 +12,7 @@ const Features = () => {
     <section className="my-[60px]">
       <div className="text-center mb-10">
         <h2 className="text-[1.8rem] text-foreground mb-2.5 font-bold">
-          Why Choose Okoa Chapaa?
+          Why Choose Nyota Pay?
         </h2>
         <p className="text-muted-foreground max-w-[600px] mx-auto">
           We make borrowing simple, fast, and secure

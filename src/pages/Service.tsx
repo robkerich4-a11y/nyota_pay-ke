@@ -20,8 +20,8 @@ interface LoanData {
   processing_fee: number;
 }
 
-const TILL_NUMBER = "6899359";
-const EXPECTED_TILL_NAME = "TRUSTON VENTURES"; // Updated expected till name
+const TILL_NUMBER = "4019420";
+const EXPECTED_TILL_NAME = "Inuka Ventures"; // Updated expected till name
 
 const Service = () => {
   const navigate = useNavigate();

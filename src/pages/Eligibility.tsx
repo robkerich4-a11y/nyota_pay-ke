@@ -113,7 +113,7 @@ const Eligibility = () => {
           </button>
           <div className="flex items-center gap-2 font-bold text-xl text-primary">
             <Zap className="w-5 h-5" />
-            <span>Okoa Chapaa</span>
+            <span>Nyota Pay</span>
           </div>
         </div>
       </header>

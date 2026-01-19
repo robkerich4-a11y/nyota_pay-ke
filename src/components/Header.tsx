@@ -7,7 +7,7 @@ const Header = () => {
         <div className="flex justify-between items-center">
           <div className="flex items-center gap-2.5 font-bold text-[1.4rem] text-primary">
             <Zap className="w-6 h-6" />
-            <span>Okoa Chapaa</span>
+            <span>Nyota Pay</span>
           </div>
         </div>
       </div>
